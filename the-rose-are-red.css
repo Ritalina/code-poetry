@@ -1,0 +1,15 @@
+:root {
+  --dear: #000000;
+}
+
+.rose {
+  color: red;
+}
+
+.violet {
+ color: blue;
+}
+
+#my-heart{
+    content: 'you'
+}
